@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://sxi1crk66246"]
+
+[ext_resource type="Texture2D" uid="uid://bml0sjl062kvx" path="res://textura_reverso.png" id="1_rjlel"]
+[ext_resource type="Script" uid="uid://f75mvtnrj778" path="res://card.gd" id="2_rjlel"]
+
+[node name="Card" type="TextureButton" unique_id=1377392182]
+custom_maximum_size = Vector2(100, 150)
+propagate_maximum_size = true
+clip_contents = true
+anchors_preset = -1
+anchor_right = 0.135
+anchor_bottom = 0.319
+offset_right = -0.5200043
+offset_bottom = 0.28799438
+texture_normal = ExtResource("1_rjlel")
+stretch_mode = 5
+script = ExtResource("2_rjlel")
+back_texture = ExtResource("1_rjlel")

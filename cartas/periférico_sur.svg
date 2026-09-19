@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" viewBox="0 0 888.19 888.19">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <clipPath id="clippath">
+      <rect x="61.1" y="61.1" width="766" height="766" rx="211.23" ry="211.23" fill="none"/>
+    </clipPath>
+  </defs>
+  <g>
+    <rect x="61.1" y="61.1" width="766" height="766" rx="211.23" ry="211.23" fill="#7b1520"/>
+    <path d="M643.27,888.19H244.93C109.65,888.19,0,778.54,0,643.27V244.93C0,109.65,109.65,0,244.92,0h398.34c135.28,0,244.93,109.65,244.93,244.92v398.34c0,135.27-109.65,244.92-244.92,244.92h0ZM861.35,631.23v-374.27c0-127.1-103.03-230.12-230.12-230.12h-374.27c-127.1,0-230.12,103.03-230.12,230.12v374.27c0,127.1,103.03,230.12,230.12,230.12h374.27c127.1,0,230.12-103.03,230.12-230.12Z" fill="#7b1520" fill-rule="evenodd"/>
+  </g>
+  <g clip-path="url(#clippath)">
+    <rect x="366.16" y="-289.42" width="540.04" height="1082.86" transform="translate(1264.23 -19.64) rotate(135)" fill="#765fa6"/>
+  </g>
+  <path d="M444.1,696.69c-139.51,0-252.6-113.09-252.6-252.59s113.09-252.6,252.6-252.6,252.6,113.09,252.6,252.6-113.09,252.59-252.6,252.59h0ZM657.45,444.09c0-117.83-95.53-213.34-213.36-213.34s-213.35,95.52-213.35,213.34h426.71Z" fill="#fff" fill-rule="evenodd"/>
+</svg>

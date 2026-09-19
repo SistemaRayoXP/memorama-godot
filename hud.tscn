@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://dgw7e55hg7edj"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_n2snw"]
+font_size = 32
+outline_size = 2
+outline_color = Color(0, 0, 0, 1)
+shadow_size = 10
+shadow_color = Color(0, 0, 0, 0.4)
+shadow_offset = Vector2(1, 2)
+
+[node name="CanvasLayer" type="CanvasLayer" unique_id=213884984]
+
+[node name="StatusLabel" type="Label" parent="." unique_id=554851917]
+offset_right = 1146.0
+offset_bottom = 23.0
+text = "Parejas: 0/20"
+label_settings = SubResource("LabelSettings_n2snw")
+horizontal_alignment = 1

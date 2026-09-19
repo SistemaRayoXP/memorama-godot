@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 78px;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: #765fa6;
+      }
+    </style>
+  </defs>
+  <g id="Base">
+    <path class="cls-3" d="M84.88,133.97v2271.37c0,289.12,234.38,523.49,523.49,523.49h2271.37V634.47c0-276.42-224.08-500.5-500.5-500.5H84.88Z"/>
+  </g>
+  <g id="_íconos_2" data-name="íconos 2">
+    <g id="Estadio_Chivas" data-name="Estadio Chivas">
+      <g>
+        <polygon class="cls-1" points="590.1 2105 2416.52 2105 2205.49 1516.81 776.68 1516.81 590.1 2105"/>
+        <rect class="cls-1" x="472.26" y="968.52" width="2022.93" height="250.41" rx="125.21" ry="125.21"/>
+        <line class="cls-1" x1="2130.21" y1="1218.93" x2="2130.21" y2="1516.81"/>
+        <line class="cls-1" x1="1712.86" y1="1218.93" x2="1712.86" y2="1516.81"/>
+        <line class="cls-1" x1="1277.5" y1="1218.93" x2="1277.5" y2="1516.81"/>
+        <line class="cls-1" x1="866.7" y1="1218.93" x2="866.7" y2="1516.81"/>
+        <polyline class="cls-2" points="1035.27 2105 1035.27 1844.14 1197.3 1844.14 1197.3 2105"/>
+        <polyline class="cls-2" points="1789.78 2105 1789.78 1844.14 1951.81 1844.14 1951.81 2105"/>
+      </g>
+    </g>
+  </g>
+</svg>
